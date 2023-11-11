@@ -1,3 +1,3 @@
 Licencia de Matias SilvestriCopyright (c) 2023. 
 
-Este proyecto se trata de la implementacion de una api que perita relaizar reconocimiento facia para el pago de servicios productos. Mediante 
+Este proyecto se trata de la implementacion de una api que perita relaizar reconocimiento facia para el pago de servicios y/o productos. Mediante el reconocimiento facial lo que hace esta aplicacion es apartir de un registro poder cargar tus datos de la tarjeta de Debito o Credito a tu exelencia, Nombre y Apellido. Uan vez echo el registro el usuaro podra para la proxima vez mostrar su cara en frente de la camara para que envien una peticion al Banco y/o billetera vistual y de hay transferir el pago a la empresa y/o entidadque posea la la API.
