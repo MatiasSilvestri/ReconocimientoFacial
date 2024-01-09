@@ -1,8 +1,5 @@
 '''
-    Description: Create your own Login with Facial Recognition.
-    Author: aulerjbailey
-    Version: 1.0.0
-    Video: https://youtu.be/cTSVYwxHn9g
+    Author: Matias Silvestri
 '''
 from tkinter import *
 from tkinter import messagebox as msg
